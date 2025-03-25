@@ -11,7 +11,7 @@ const Home = () => {
 
   return (
     <Container maxWidth="sm" sx={{ marginTop: 4 }}>
-      <Paper elevation={3} sx={{ padding: 3, borderRadius: 2, background: '#3a33c0' }}>
+      <Paper elevation={3} sx={{ padding: 3, borderRadius: 2, background: '#ffff' }}>
         
         {/* ✅ Header Section */}
         <Typography variant="h4" align="center" gutterBottom sx={{ color: 'black' }}>
