@@ -11,10 +11,10 @@ const Home = () => {
 
   return (
     <Container maxWidth="sm" sx={{ marginTop: 4 }}>
-      <Paper elevation={3} sx={{ padding: 3, borderRadius: 2, background: '#ffffff' }}>
+      <Paper elevation={3} sx={{ padding: 3, borderRadius: 2, background: '#3a33c0' }}>
         
         {/* ✅ Header Section */}
-        <Typography variant="h4" align="center" gutterBottom sx={{ color: '#1976d2' }}>
+        <Typography variant="h4" align="center" gutterBottom sx={{ color: 'black' }}>
           📝 Welcome to To-Do App
         </Typography>
         
